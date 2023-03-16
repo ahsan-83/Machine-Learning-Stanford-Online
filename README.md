@@ -1,6 +1,6 @@
-# Deep Learning Specialization Coursera
+# Machine Learning Stanford Online
 
-![](DeepLearning.PNG)
+![](MachineLearning.PNG)
 
 [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) is a foundational program for gaining speciality on deep learning in order to develop cutting-edge AI technologies. Course is offered by [DeepLearning.AI](https://www.deeplearning.ai/) on Coursera. 
 
