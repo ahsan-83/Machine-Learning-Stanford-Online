@@ -2,23 +2,25 @@
 
 ![](MachineLearning.PNG)
 
-[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) is a foundational program for gaining speciality on deep learning in order to develop cutting-edge AI technologies. Course is offered by [DeepLearning.AI](https://www.deeplearning.ai/) on Coursera. 
+[Machine Learning Stanford](https://www.coursera.org/learn/machine-learning) course is a broad introduction to machine learning, datamining, and statistical pattern recognition. The course also includes numerous case studies and applications for building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio and database mining. Course is offered by [DeepLearning.AI](https://www.deeplearning.ai/) on Coursera. 
 
 Instructor: [Andrew Ng](http://www.andrewng.org/)
 
-## Course 1: [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) 
-
-### [Content](https://github.com/ahsan-83/Deep-Learning-Specialization-Coursera/tree/main/Neural%20Networks%20and%20Deep%20Learning)
-
 ### Coursework
-- Deep Learning
-- Artificial Neural Network
-- Backpropagation
-- Python Programming
-- Neural Network Architecture
 
+- Supervised learning 
+  - Linear Regression
+  - Gradient Descent
+  - Cost Function
+  
 ### Lectures
-- [Week 1-Introduction to Deep Learning](https://github.com/ahsan-83/Deep-Learning-Specialization-Coursera/blob/main/Neural%20Networks%20and%20Deep%20Learning/Lectures/C1_W1.pdf)
+- [Week 1-Introduction to Machine Learning](https://github.com/ahsan-83/Machine-Learning-Stanford/blob/main/Lectures/Week%201-Introduction%20to%20Machine%20Learning.pdf)
+  - Machine Learning Introduction
+  - Supervised learning 
+  - Unsupervised Learning
+  - Linear Regression with One Variable
+  - Gradient Descent
+  - Cost Function
 - [Week 2-Neural Networks Basics](https://github.com/ahsan-83/Deep-Learning-Specialization-Coursera/blob/main/Neural%20Networks%20and%20Deep%20Learning/Lectures/C1_W2.pdf)
 - [Week 3-Shallow Neural Networks](https://github.com/ahsan-83/Deep-Learning-Specialization-Coursera/blob/main/Neural%20Networks%20and%20Deep%20Learning/Lectures/C1_W3.pdf)
 - [Week 4-Deep Neural Networks](https://github.com/ahsan-83/Deep-Learning-Specialization-Coursera/blob/main/Neural%20Networks%20and%20Deep%20Learning/Lectures/C1_W4.pdf)
