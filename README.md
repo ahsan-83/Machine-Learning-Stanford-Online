@@ -1,6 +1,6 @@
 # Machine Learning Stanford Online
 
-![](MachineLearning.PNG)
+![](MachineLearning.png)
 
 [Machine Learning Stanford](https://www.coursera.org/learn/machine-learning) course is a broad introduction to machine learning, datamining, and statistical pattern recognition. The course also includes numerous case studies and applications for building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio and database mining. Course is offered by [DeepLearning.AI](https://www.deeplearning.ai/) on Coursera. 
 
